@@ -26,7 +26,7 @@ function App() {
     {
       id: 4,
       name: "Bike",
-      price: 1999,
+      price: 2000,
       image: "https://neal.fun/spend/images/bike.jpg",
     },
     {
@@ -40,6 +40,42 @@ function App() {
       name: "Bike",
       price: 78000,
       image: "https://neal.fun/spend/images/mona-lisa.jpg",
+    },
+    {
+      id: 7,
+      name: "Monster Truck",
+      price: 150000,
+      image: "https://neal.fun/spend/images/monster-truck.jpg",
+    },
+    {
+      id: 8,
+      name: "Single Family Home",
+      price: 300000,
+      image: "https://neal.fun/spend/images/single-family-home.jpg",
+    },
+    {
+      id: 9,
+      name: "Yacht",
+      price: 7500000,
+      image: "https://neal.fun/spend/images/yacht.jpg",
+    },
+    {
+      id: 10,
+      name: "M1 Abrams",
+      price: 8000000,
+      image: "https://neal.fun/spend/images/yacht.jpg",
+    },
+    {
+      id: 11,
+      name: "Formula 1 Car",
+      price: 8500000,
+      image: "https://neal.fun/spend/images/formula-1-car.jpg",
+    },
+    {
+      id: 12,
+      name: "Skyscraper",
+      price: 9000000,
+      image: "https://neal.fun/spend/images/skyscraper.jpg",
     },
   ]);
 
